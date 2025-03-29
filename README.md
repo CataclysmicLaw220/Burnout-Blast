@@ -1,4 +1,4 @@
-# Burnout Escape
+# Burnout Blaze
 
 ## Princeton Hackathon
 
