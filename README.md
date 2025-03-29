@@ -43,7 +43,7 @@ The game consists of three levels:
 ## Technology Stack
 
 - **Engine:** Unity (C#)
-- **Art:** Pixel art (Software TBD)
+- **Art:** Pixel art (Aseprite)
 - **AI Integration:** Gemini
 
 ## Wishlist
