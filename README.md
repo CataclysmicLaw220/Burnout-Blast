@@ -1,54 +1,55 @@
-# Burnout-Blast
-Princeton Hackathon
+# Burnout Escape
 
-Game Concept & Story
-Your game, "Burnout Escape", is a 2D side-scrolling runner where players control Booker, an office worker overwhelmed by stress, who finally snaps and flees his workplace. However, as he runs, his manifested responsibilities—nightmarish versions of work-related burdens—chase him.
-Each level introduces new manifestations of burnout, like:
-Emails (Swarms of Floating Paper) – Blocking his path, forcing him to dodge or weave through.
+## Princeton Hackathon
 
+**Burnout Escape** is a 2D side-scrolling endless runner where players control Booker, an office worker overwhelmed by stress. One day, he finally snaps and flees his workplace. However, his manifested responsibilities—nightmarish versions of work-related burdens—chase him as he runs. 
 
-Deadlines (Treadmill Floors) – Sections where he must run faster or risk getting sucked into a void of exhaustion.
+## Game Concept & Story
 
+Each level introduces new manifestations of burnout, such as:
 
-Micromanaging Boss (Giant, Floating Head) – Occasionally appearing to summon obstacles or slow him down.
+- **Emails (Swarms of Floating Paper):** Block Booker's path, forcing him to dodge or weave through.
+- **Deadlines (Treadmill Floors):** Sections where he must run faster or risk getting sucked into a void of exhaustion.
+- **Micromanaging Boss (Giant Floating Head):** Occasionally appears to summon obstacles or slow him down.
+- **Bills (Heavy Chains):** Temporarily weigh him down, reducing speed and jump height.
 
+Booker must run, jump, slide, and break free from these burdens while managing exhaustion. If he slows down too much, he succumbs to burnout and must restart.
 
-Bills (Heavy Chains) – Temporarily weighing him down, reducing speed and jump height.
+## Game Mechanics & Features
 
+- **Endless Runner Mechanics:** Fast-paced gameplay requiring constant movement.
+- **Burnout Meter (Stamina System):**
+  - Running, jumping, and dodging deplete stamina.
+  - Recharge stamina using energy drinks or coffee.
+  - When stamina reaches zero, Booker stumbles, falls, and "burns out."
+- **Symbolic UI Design:** A burnout meter replaces a traditional health bar.
+- **Mental Health Mini-Games:** Optional distractions that provide larger stamina boosts.
 
-Booker must run, jump, slide, and break free from these burdens, with exhaustion creeping up over time. If he slows down too much, he’s consumed by burnout and must restart.
+## Levels
 
-Game Mechanics & Features
-Endless Runner Mechanics
-Stamina or “Burnout meter”
-Running, Jumping, dodging depletes stamina
-Recharge with energy drinks/coffee
-When 0 booker will stumble, fall over, and die.
-Wishlist
-Mental health mini games
-Bigger boost stamina
-Kind of a distraction thing from the burnout
+The game consists of three levels:
 
+1. **Office Escape** – Evading work-related stress.
+2. **City Streets** – Facing societal expectations and financial stress.
+3. **Subway / Mental Collapse** – A surreal descent into total burnout, requiring the player to break free mentally.
 
-3 Levels Max
+## Development Team
 
+- **Cris:** Unity Development Lead
+- **Keny:** Implementing Gemini AI
+- **Lawrence:** Player Control Coding
+- **Adrian:** Level Design & Pixel Art
 
-Office Escape – Evading work-related stress.
+## Technology Stack
 
+- **Engine:** Unity (C#)
+- **Art:** Pixel art (Software TBD)
+- **AI Integration:** Gemini
 
-City Streets – Facing societal expectations and financial stress.
+## Wishlist
 
+- **More Mental Health Mini-Games** – Providing engaging ways to recover from burnout.
 
-Subway / Mental Collapse – A surreal descent into total burnout, requiring the player to break free mentally.
+---
 
-
-Stamina System – Booker tires out if he doesn’t keep moving efficiently.
-
-
-Symbolic UI Design – A burnout meter instead of a traditional health bar.
-
-
-Game will be made in unity and Cris will charge that.
-Keny will work on implementing gemini
-Lawrence will handle player control coding 
-Adrian can work on level design pixel art 
+Stay tuned for updates as we bring *Burnout Escape* to life!
